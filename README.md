@@ -8,15 +8,27 @@
 
 #### Usege/Demo
 
+-   simple
+
 ```bash
 git clone https://github.com/rwson/my-redux.git
 
-cd demo
+cd my-redux/demo/simple
 
-cd simple
+yarn [npm install]
 
-yarn[npm install]
+yarn start [npm start]
+```
 
-yarn start
+
+
+-   todo
+
+```bash
+cd my-redux/demo/todo
+
+yarn [npm install]
+
+yarn start [npm start]
 ```
 
