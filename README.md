@@ -2,7 +2,7 @@
 
 -------
 
-读[《React小书》](http://huziketang.com/books/react),自己实现一个React
+读[《React小书》](http://huziketang.com/books/react),自己实现一个Redux
 
 
 
